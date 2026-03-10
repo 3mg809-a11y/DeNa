@@ -1,0 +1,17 @@
+{
+  "name": "project-frontend-dependencies",
+  "version": "1.0.0",
+  "description": "Frontend assets managed via npm",
+  "dependencies": {
+    "bootstrap": "5.3.8",
+    "datatables.net": "2.3.7",
+    "@fortawesome/fontawesome-free": "7.2.0",
+    "jquery": "4.0.0",
+    "jquery-mask-plugin": "1.14.16",
+    "jquery-ui": "1.14.1",
+    "mdb-ui-kit": "4.20.0",
+    "modernizr": "3.13.1",
+    "@popperjs/core": "2.10.2",
+    "typeface-roboto": "3.1.0"
+  }
+}
