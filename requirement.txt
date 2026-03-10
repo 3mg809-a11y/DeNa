@@ -1,0 +1,5 @@
+# Testing framework
+pytest==8.3.4
+
+# Browser automation
+selenium==4.41.0
